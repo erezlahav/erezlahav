@@ -47,6 +47,3 @@
 
 ---
 
-## 🌐 Connect  
-📧 [Your email here if you want]  
-💡 Always open to discussions about **Linux, low-level programming, and CTF pwn challenges**  
