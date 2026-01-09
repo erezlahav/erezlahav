@@ -9,7 +9,7 @@
 
 ---
 ## 🏆 Achievements
--🥇 1st Place – CodeGuru Extreme (2026) National Cyber Competition (1st / 110 teams)
+-🥇 1st Place – CodeGuru Extreme (2026) National Cyber Competition (1st / 174 teams)
 
 
 ## 🛠️ Tools & Skills  
