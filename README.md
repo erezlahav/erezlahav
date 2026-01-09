@@ -9,12 +9,15 @@
 ---
 
 ## 🔥 About Me  
-- 🎓 17 y/o student passionate about **systems programming, reverse engineering, and security**  
+- 🎓 18 y/o student passionate about **systems programming, reverse engineering, and security**
 - 🕹️ Loves doing **CTFs**, especially **pwn challenges** (binary exploitation, memory corruption, reversing)  
 - 💻 Strong focus on **Linux internals, Assembly, C, and Python**  
 - 🧩 Curious about **how things work under the hood**  
 
 ---
+## 🏆 Achievements
+-🥇 1st Place – CodeGuru Extreme (2026) National Cyber Competition (1st / 110 teams)
+
 
 ## 🛠️ Tools & Skills  
 - Debugging: `gdb` + `pwndbg`  
