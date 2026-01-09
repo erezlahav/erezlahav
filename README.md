@@ -1,11 +1,4 @@
 # 👋 Hi There  
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()  
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)]()  
-[![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge)]()  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
-[![CTF](https://img.shields.io/badge/CTF-pwn-orange?style=for-the-badge)]()  
-
 ---
 
 ## 🔥 About Me  
