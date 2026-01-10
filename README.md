@@ -25,6 +25,12 @@
 - Built in **Python** with sockets, threading, bitfield-based piece scheduling, and hybrid RSA+AES encryption  
 - Includes tracker + peers (both seeding & downloading)  
 
+
+### 🔹 Debugger – A GDB like debugger written in C
+- Supports multiple breakpoint types, instruction-level stepping, disassembly, ELF parsing, full CPU register inspection, and process memory inspection.
+- Working on rewind execution feature based on Copy-On-Write memory snapshots, for tracking modified pages to efficiently restore previous execution states.
+
+
 ### 🔹 Assembly Game  
 - A low-level game written in **x86 Assembly**, focusing on optimization, memory control, and graphics logic  
 
